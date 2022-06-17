@@ -1,0 +1,16 @@
+E:\BE-subjects\C#.NET\Semester Grades\bin\Debug\netcoreapp3.1\Semester Grades.exe
+E:\BE-subjects\C#.NET\Semester Grades\bin\Debug\netcoreapp3.1\Semester Grades.deps.json
+E:\BE-subjects\C#.NET\Semester Grades\bin\Debug\netcoreapp3.1\Semester Grades.runtimeconfig.json
+E:\BE-subjects\C#.NET\Semester Grades\bin\Debug\netcoreapp3.1\Semester Grades.runtimeconfig.dev.json
+E:\BE-subjects\C#.NET\Semester Grades\bin\Debug\netcoreapp3.1\Semester Grades.dll
+E:\BE-subjects\C#.NET\Semester Grades\bin\Debug\netcoreapp3.1\Semester Grades.pdb
+E:\BE-subjects\C#.NET\Semester Grades\obj\Debug\netcoreapp3.1\Semester Grades.csproj.AssemblyReference.cache
+E:\BE-subjects\C#.NET\Semester Grades\obj\Debug\netcoreapp3.1\Semester Grades.csproj.GenerateResource.cache
+E:\BE-subjects\C#.NET\Semester Grades\obj\Debug\netcoreapp3.1\Semester Grades.GeneratedMSBuildEditorConfig.editorconfig
+E:\BE-subjects\C#.NET\Semester Grades\obj\Debug\netcoreapp3.1\Semester Grades.AssemblyInfoInputs.cache
+E:\BE-subjects\C#.NET\Semester Grades\obj\Debug\netcoreapp3.1\Semester Grades.AssemblyInfo.cs
+E:\BE-subjects\C#.NET\Semester Grades\obj\Debug\netcoreapp3.1\Semester Grades.csproj.CoreCompileInputs.cache
+E:\BE-subjects\C#.NET\Semester Grades\obj\Debug\netcoreapp3.1\Semester Grades.dll
+E:\BE-subjects\C#.NET\Semester Grades\obj\Debug\netcoreapp3.1\Semester Grades.pdb
+E:\BE-subjects\C#.NET\Semester Grades\obj\Debug\netcoreapp3.1\Semester Grades.genruntimeconfig.cache
+E:\BE-subjects\C#.NET\Semester Grades\obj\Debug\netcoreapp3.1\Semester_Grades.Semester_grades_app.resources
